@@ -7,7 +7,7 @@ counter+=1;
 
 }
 function getBumps(){
-
+return counter
 
 }
 
