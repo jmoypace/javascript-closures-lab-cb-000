@@ -7,12 +7,12 @@ counter+=1;
 
 }
 function getBumps(){
-return counter
+return counter;
 
 }
 
 return {
-  addBump()
-  getBumps()
+  addBump();
+  getBumps();
 }
 }
