@@ -11,6 +11,8 @@ function getBumps(){
 
 }
 
-
-
+return {
+  addBump
+  getBumps
+}
 }
