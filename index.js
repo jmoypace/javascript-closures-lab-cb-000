@@ -12,7 +12,7 @@ return counter;
 }
 
 return {
-  addBump();
-  getBumps();
-}
+  addBump,
+  getBumps,
+};
 }
